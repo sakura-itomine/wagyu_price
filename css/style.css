@@ -1,5 +1,5 @@
 body {
-  background-color: #343a40;
+  background-color: #2e3c2c;
 }
 
 a {
@@ -37,7 +37,7 @@ p {
 
 
 .submit-color {
-  background-color: #DE660D;
+  background-color: #49d563;
   color: white;
   opacity: 0.9;
   transition: all 0.4s;
@@ -54,7 +54,7 @@ p {
 }
 
 footer {
-  background-color: #343a40;
+  background-color: #202924;
   text-align: center;
 }
 
